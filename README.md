@@ -1,5 +1,5 @@
 
-![Header Pic](img/header.jpg)
+![Header Pic](img/header.JPG)
 
 ### Hola 👋
 Soy Diana apasioanada del Front-end, la fotografía, las buenas series y de aquello del vivir. <br />
