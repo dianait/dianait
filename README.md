@@ -1,4 +1,4 @@
-![alt text](header.jpg "Header Diana Hernández")
+![Profile header pic](./img/header.jpg)
 ### Hola 👋
 Soy Diana apasioanada del Front-end, la fotografía, las buenas series y de aquello del vivir. Y como mi amiga Alexia me dijo una vez  *"Compartir es vivir"* así aquí estoy...
 
@@ -15,3 +15,4 @@ Soy Diana apasioanada del Front-end, la fotografía, las buenas series y de aque
 * [Linkedin](https://www.linkedin.com/in/dianahernandezsoler/)
 * [CodePen](https://codepen.io/dianait-the-bold)
 * [Flickr](https://www.flickr.com/photos/elinstantedecisivo/)
+
