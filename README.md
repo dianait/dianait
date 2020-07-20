@@ -1,4 +1,4 @@
-![Profile header pic](./img/header.jpg)
+![Profile header pic](img/header.jpg)
 
 ### Hola 👋
 Soy Diana apasioanada del Front-end, la fotografía, las buenas series y de aquello del vivir. Y como mi amiga Alexia me dijo una vez  *"Compartir es vivir"* así aquí estoy...
