@@ -4,14 +4,14 @@ Soy Diana apasioanada del Front-end, la fotografía, las buenas series y de aque
 
 *If it doesn't scare you, it isn't going to help you grow.*
 
-:mortar_board: **CFGS Desarrollo de aplicaciones web**  
-:mortar_board: Estudiando **Tecnologías Interactivas** en la UPV 
-💻 Scrum | Angular | Python | Node.js | PHP | MySQL 
-:purple_heart:  | 🏳️‍🌈 | 🖖 | 📸 | :tv: | :coffee: | :airplane: | :laughing: 
+:mortar_board: **CFGS Desarrollo de aplicaciones web**  <br />
+:mortar_board: Estudiando **Tecnologías Interactivas** en la UPV <br />
+💻 Scrum | Angular | Python | Node.js | PHP | MySQL <br />
+:purple_heart:  | 🏳️‍🌈 | 🖖 | 📸 | :tv: | :coffee: | :airplane: | :laughing:  <br />
 
 
-:smile: También me puedes encontrar en:
-[Twitter](https://twitter.com/dianait_)
-[Linkedin](https://www.linkedin.com/in/dianahernandezsoler/)
-[CodePen](https://codepen.io/dianait-the-bold)
-[Flickr](https://www.flickr.com/photos/elinstantedecisivo/)
+:smile: También me puedes encontrar en: <br />
+* [Twitter](https://twitter.com/dianait_)
+* [Linkedin](https://www.linkedin.com/in/dianahernandezsoler/)
+* [CodePen](https://codepen.io/dianait-the-bold)
+* [Flickr](https://www.flickr.com/photos/elinstantedecisivo/)
