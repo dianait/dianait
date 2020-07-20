@@ -14,7 +14,7 @@ Y como mi amiga Alexia me dijo una vez  *"Compartir es vivir"* así aquí estoy.
 
 
 :smile: También me puedes encontrar en: <br />
-[Twitter](https://twitter.com/dianait_) <br />
-[Linkedin](https://www.linkedin.com/in/dianahernandezsoler/) <br />
-[CodePen](https://codepen.io/dianait-the-bold) <br />
-[Flickr](https://www.flickr.com/photos/elinstantedecisivo/) <br />
+💬 [Twitter](https://twitter.com/dianait_) <br />
+:briefcase: [Linkedin](https://www.linkedin.com/in/dianahernandezsoler/) <br />
+👩🏼‍💻 [CodePen](https://codepen.io/dianait-the-bold) <br />
+📸 [Flickr](https://www.flickr.com/photos/elinstantedecisivo/) <br />
