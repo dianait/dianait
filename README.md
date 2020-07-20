@@ -11,7 +11,7 @@ Y como mi amiga Alexia me dijo una vez  *"Compartir es vivir"* así que... Aquí
 :mortar_board: Estudiando **Tecnologías Interactivas** en la UPV <br />
 💻 Scrum | Angular | Python | Node.js | PHP | MySQL <br />
 :purple_heart:  | 🏳️‍🌈 | 🖖 | 📸 | :tv: | :coffee: | :airplane: | :laughing:  <br />
-
+:earth_americas: La terreta
 
 :eyeglasses: También me puedes encontrar en: <br />
 💬 [Twitter](https://twitter.com/dianait_) <br />
