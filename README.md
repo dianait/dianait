@@ -1,4 +1,5 @@
-![HeaderPic](img/header.jpg)
+
+![Header Pic](img/header.JPG)
 
 <div width="200px">
 ### Hola 👋
