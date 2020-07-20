@@ -1,9 +1,9 @@
 
-![Header Pic](img/header.JPG)
+![Header Pic](img/header.jpg)
 
 ### Hola 👋
 Soy Diana apasioanada del Front-end, la fotografía, las buenas series y de aquello del vivir. <br />
-Y como mi amiga Alexia me dijo una vez  *"Compartir es vivir"* así aquí estoy...
+Y como mi amiga Alexia me dijo una vez  *"Compartir es vivir"* así que... Aquí estoy.
 
 *If it doesn't scare you, it isn't going to help you grow.*
 
@@ -13,7 +13,7 @@ Y como mi amiga Alexia me dijo una vez  *"Compartir es vivir"* así aquí estoy.
 :purple_heart:  | 🏳️‍🌈 | 🖖 | 📸 | :tv: | :coffee: | :airplane: | :laughing:  <br />
 
 
-:smile: También me puedes encontrar en: <br />
+:eyeglasses: También me puedes encontrar en: <br />
 💬 [Twitter](https://twitter.com/dianait_) <br />
 :briefcase: [Linkedin](https://www.linkedin.com/in/dianahernandezsoler/) <br />
 👩🏼‍💻 [CodePen](https://codepen.io/dianait-the-bold) <br />
