@@ -1,7 +1,9 @@
-![Profile header pic](./img/header.jpg)
+![HeaderPic](img/header.jpg)
 
+<div width="200px">
 ### Hola 👋
-Soy Diana apasioanada del Front-end, la fotografía, las buenas series y de aquello del vivir. Y como mi amiga Alexia me dijo una vez  *"Compartir es vivir"* así aquí estoy...
+Soy Diana apasioanada del Front-end, la fotografía, las buenas series y de aquello del vivir. <br />
+Y como mi amiga Alexia me dijo una vez  *"Compartir es vivir"* así aquí estoy...
 
 *If it doesn't scare you, it isn't going to help you grow.*
 
@@ -16,3 +18,5 @@ Soy Diana apasioanada del Front-end, la fotografía, las buenas series y de aque
 * [Linkedin](https://www.linkedin.com/in/dianahernandezsoler/)
 * [CodePen](https://codepen.io/dianait-the-bold)
 * [Flickr](https://www.flickr.com/photos/elinstantedecisivo/)
+
+<div>
