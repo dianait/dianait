@@ -1,7 +1,7 @@
 
 ![Header Pic](https://github.com/DianaIT/DianaIT/blob/master/img/header.PNG)
 
-### Hola 👋, soy Diana
+### Hola 👋, 
 Apasioanada del desarrollo, la tecnología, las buenas series y de aquello del vivir. <br />
 Y como mi amiga Alexia me dijo una vez  *"Compartir es vivir"* así que... Aquí estoy.
 
