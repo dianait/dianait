@@ -1,5 +1,5 @@
 
-![Header Pic](https://github.com/DianaIT/DianaIT/blob/master/img/header.JPG)
+![Header Pic](https://github.com/DianaIT/DianaIT/blob/master/img/header.PNG)
 
 ### Hola 👋, soy Diana
 Apasioanada del desarrollo, la tecnología, las buenas series y de aquello del vivir. <br />
