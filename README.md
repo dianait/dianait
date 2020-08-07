@@ -2,7 +2,7 @@
 ![Header Pic](https://github.com/DianaIT/DianaIT/blob/master/img/header.PNG)
 
 ### Hola 👋, 
-Apasioanada del front, la tecnología, las buenas series y de aquello del vivir. <br />
+Apasionada del front, la tecnología, las buenas series y de aquello del vivir. <br />
 Y como mi amiga Alexia me dijo una vez  *"Compartir es vivir"* así que... Aquí estoy.
 
 *If it doesn't scare you, it isn't going to help you grow.*
