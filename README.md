@@ -1,11 +1,15 @@
 
 <p  align="center">
-  <img src="https://github.com/DianaIT/DianaIT/blob/master/img/header.PNG" alt="Heade Pic" /></p>
+  <img style="margin-left:-50px;" src="https://github.com/DianaIT/DianaIT/blob/master/img/header.PNG" alt="Heade Pic" />
+    <img src="https://github.com/DianaIT/DianaIT/blob/master/img/stack/stack.PNG" alt="stack" />
+</p>
+  
+  
+ 
 <p  align="center">💜 | 💻 | 🏳️‍🌈 | 🖖 | 📺 | ☕ | ✈️ | 😆</p>
 
 
 <p align="center">
-
   <a href="https://twitter.com/dianait_" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dianait_" height="20px" width="20px" />
   </a>
