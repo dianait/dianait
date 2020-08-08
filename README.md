@@ -21,13 +21,13 @@
   </a>
 </p>
 
-#### 👋 Hola
+### 👋 Hola
 Soy Diana, valenciana apasionada del front, la tecnología, las buenas series y de aquello del vivir. Mi amiga _Alexia_ me dijo una vez que *"Compartir es vivir"* así que... Aquí estoy.
 
-#### 🖖 Friki de nacimiento
+### 🖖 Friki de nacimiento
 Nací en el año en que unos lagartos vestidos de rojo aterrorizaban la televisión; Cuenta mi progenitora que debido a mi nacimiento se perdió el desenlace de V. Y para recordármelo de por vida me llamo **Diana**. 
 
-#### 📜 La frase
+### 📜 La frase
 *If it doesn't scare you, it isn't going to help you grow.*
 
 :mortar_board: **CFGS Desarrollo de aplicaciones web**  <br />
