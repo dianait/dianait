@@ -1,6 +1,7 @@
 
 <p  align="center">
   <img style="margin-left:-50px;" src="https://github.com/DianaIT/DianaIT/blob/master/img/header.PNG" alt="Heade Pic" />
+  <br />
     <img src="https://github.com/DianaIT/DianaIT/blob/master/img/stack/stack.PNG" alt="stack" />
 </p>
   
