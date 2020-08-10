@@ -6,9 +6,9 @@
 </p>
   
 
-<p align="center"><a href="https://twitter/dianait_"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/twitter.svg" alt="dianait_" width="40"/></a>
+<p align="center"><a href="https://twitter.com/dianait_"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/twitter.svg" alt="dianait_" width="40"/></a>
 <a href="https://www.linkedin.com/in/dianahernandezsoler/"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/linkedin.svg" alt="dianahernandezsoler" width="40"/></a>
-<a href="https://instagram.com/dianait"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/instagram.svg" alt="dianait" width="40"/></a>
+<a href="https://www.instagram.com/dianait_"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/instagram.svg" alt="dianait" width="40"/></a>
 <a href="https://dianait.vercel.app"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/SFlogo.PNG" alt="series & Front" width="44"/></a>
 </p>
 
