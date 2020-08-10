@@ -5,20 +5,11 @@
     <img src="https://github.com/DianaIT/DianaIT/blob/master/img/stack/stack.PNG" alt="stack" />
 </p>
   
-  
- 
-<p  align="center">💜 | 💻 | 🏳️‍🌈 | 🖖 | 📺 | ☕ | ✈️ | 😆</p>
 
-
-<p align="center">
-  <a href="https://twitter.com/dianait_" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dianait_" height="20px" width="20px" />
-  </a>
-      <a href="https://instagram.com/dianait" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dianait" height="20px" width="20px" />
-  <a href="https://www.linkedin.com/in/dianahernandezsoler/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dianahernandezsoler" height="20px" width="20px" />
-  </a>
+<p align="center"><a href="https://twitter/dianait_"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/twitter.svg" alt="dianait_" width="40"/></a>
+<a href="https://www.linkedin.com/in/dianahernandezsoler/"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/linkedin.svg" alt="dianahernandezsoler" width="40"/></a>
+<a href="https://instagram.com/dianait"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/instagram.svg" alt="dianait" width="40"/></a>
+<a href="https://dianait.vercel.app"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/SFlogo.PNG" alt="series & Front" width="44"/></a>
 </p>
 
 ### 👋 Hola
