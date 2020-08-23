@@ -12,7 +12,6 @@
 </p>
 
 
-
 ### 👋 Hi there! 
 I'm Diana Hernández, Front-end developer currently a Fourth Year IT student 💻 at UPV. I was always interested in technology and life itself took care of putting me in this place. My place. Where I'm trying to learn as much as possible every day. Step by step.
 
@@ -23,6 +22,7 @@ I'm Diana Hernández, Front-end developer currently a Fourth Year IT student �
 
 
 :earth_americas: Valencia, SPAIN
+
 
 Take Care!
   
