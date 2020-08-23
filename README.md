@@ -4,7 +4,6 @@
   <br />
     <img src="https://github.com/DianaIT/DianaIT/blob/master/img/stack/stack.PNG" alt="stack" />
 </p>
-  
 
 <p align="center"><a href="https://twitter.com/dianait_"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/twitter.svg" alt="dianait_" width="40"/></a>
 <a href="https://www.linkedin.com/in/dianahernandezsoler/"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/linkedin.svg" alt="dianahernandezsoler" width="40"/></a>
@@ -12,16 +11,23 @@
 <a href="https://dianait.vercel.app"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/SFlogo.PNG" alt="series & Front" width="44"/></a>
 </p>
 
-### 👋 Hola
-Soy Diana, valenciana apasionada del front, la tecnología, las buenas series y de aquello del vivir. Mi amiga _Alexia_ me dijo una vez que *"Compartir es vivir"* así que... Aquí estoy.
 
-### 🖖 Friki de nacimiento
-Nací en el año en que unos lagartos vestidos de rojo aterrorizaban la televisión; Cuenta mi progenitora que debido a mi nacimiento se perdió el desenlace de V. Y para recordármelo de por vida me llamo **Diana**. 
 
-### 📜 La frase
-*If it doesn't scare you, it isn't going to help you grow.*
+### 👋 Hi there! 
+I'm Diana Hernández, Front-end developer currently a Fourth Year IT student 💻 at UPV. I was always interested in technology and life itself took care of putting me in this place. My place. Where I'm trying to learn as much as possible every day. Step by step.
 
-:mortar_board: **CFGS Desarrollo de aplicaciones web**  <br />
-:mortar_board: Estudiando **Tecnologías Interactivas** en la UPV <br />
-📋 **Blog:** [Series & Front](https://dianait.vercel.app) <br />
-:earth_americas: La terreta
+
+⚡ Fun fact: Mi mather called me Diana because of her:
+
+![Diana](https://media.giphy.com/media/CGgUswvhw2DAs/giphy.gif)
+
+
+:earth_americas: Valencia, SPAIN
+
+Take Care!
+  
+
+
+
+
+
