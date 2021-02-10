@@ -16,7 +16,7 @@
 I'm Diana Hernández, Front-end developer currently a Fourth Year IT student 💻 at UPV. I was always interested in technology and life itself took care of putting me in this place. My place. Where I'm trying to learn as much as possible every day. Step by step.
 
 
-⚡ Fun fact: Mi mather called me Diana because of her:
+⚡ Fun fact: Mi mother called me Diana because of her:
 
 ![Diana](https://media.giphy.com/media/CGgUswvhw2DAs/giphy.gif)
 
