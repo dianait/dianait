@@ -2,7 +2,7 @@
 <p  align="center">
   <img style="margin-left:-50px;" src="https://github.com/DianaIT/DianaIT/blob/master/img/header.PNG" alt="Heade Pic" />
   <br />
-    <img src="https://github.com/DianaIT/DianaIT/blob/master/img/stackDiana.png" />
+    <img src="https://github.com/DianaIT/DianaIT/blob/master/img/stackDiana.png" width="330" />
 </p>
 
 <p align="center"><a href="https://twitter.com/dianait_"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/twitter.png" alt="dianait_" width="40"/></a>
