@@ -1,7 +1,7 @@
 
 <p  align="center">
 DIANA HERNÁNDEZ<br />
-  <i>mobile developer working student at New Work</i>
+  <i>mobile working student at New Work</i>
 </p>
 
 <p align="center"><a href="https://twitter.com/dianait_"><img src="https://github.com/DianaIT/DianaIT/blob/master/img/social/twitter.png" alt="dianait_" width="40"/></a>
