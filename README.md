@@ -3,8 +3,8 @@
 ### 👋 Hi there! 
 📍 Valencia, SPAIN <br /> 
  🙍‍♀️ <strong>I'm DIANA HERNÁNDEZ</strong><br />
-📱 Mobile working student at <a href="https://www.new-work.se/en/"> New Work</a><br />
-🌱 I’m currently learning Android & iOS<br />
+📱 Mobile developer at <a href="https://www.new-work.se/en/"> New Work</a><br />
+🌱 I’m currently learning about Accessibility <br />
 👯 I like things with cinnamon, tv shows and having fun<br />
 🤔 Nothing great in the world has ever been accomplished alone<br />
 💬 Let's talk on <a href="https://twitter.com/dianait_">Twitter</a> or <a href="https://www.linkedin.com/in/dianahernandezsoler/">Linkedin</a><br />
