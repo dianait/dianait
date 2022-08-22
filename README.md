@@ -1,5 +1,17 @@
 <img src="https://github.com/DianaIT/DianaIT/blob/master/img/background.jpg" alt="background" />
 
+![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![image](	https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![image](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![image](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
+
+
+
+
+
+
 ### 👋 Hi there! 
 📍 Valencia, SPAIN <br /> 
  🙍‍♀️ <strong>I'm DIANA HERNÁNDEZ</strong><br />
@@ -14,6 +26,7 @@
 
 
 
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaIT&theme=vue)
   
 
 
