@@ -26,7 +26,7 @@
 
 
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaIT&theme=vue)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dianait&theme=vue)
   
 
 
