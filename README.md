@@ -5,16 +5,9 @@
 ![image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![image](	https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![image](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
-![image](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 
-
-
-
-
-
-### 👋 Hi there! 
+🙍‍♀️ <strong>I'm DIANA HERNÁNDEZ</strong><br />
 📍 Valencia, SPAIN <br /> 
- 🙍‍♀️ <strong>I'm DIANA HERNÁNDEZ</strong><br />
 📱 Mobile developer at <a href="https://www.new-work.se/en/"> New Work</a><br />
 🌱 I’m currently learning about mobile accessibility <br />
 👯 I like things with cinnamon, tv shows and having fun<br />
@@ -26,7 +19,6 @@
 
 
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dianait&theme=vue)
   
 
 
